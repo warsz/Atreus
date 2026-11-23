@@ -1,0 +1,6 @@
+    WARNING: ø (U+00f8) is already defined more than once on the keyboard (on VK_O, ShiftState 'Ctl+Alt' and VK_L, ShiftState 'Ctl+Alt').
+    WARNING: Ø (U+00d8) is already defined more than once on the keyboard (on VK_O, ShiftState 'Shift+Ctl+Alt' and VK_L, ShiftState 'Shift+Ctl+Alt').
+    WARNING: å (U+00e5) is already defined more than once on the keyboard (on VK_W, ShiftState 'Ctl+Alt' and VK_A, ShiftState 'Ctl+Alt').
+    WARNING: Å (U+00c5) is already defined more than once on the keyboard (on VK_W, ShiftState 'Shift+Ctl+Alt' and VK_A, ShiftState 'Shift+Ctl+Alt').
+    WARNING: æ (U+00e6) is already defined more than once on the keyboard (on VK_Z, ShiftState 'Ctl+Alt' and VK_E, ShiftState 'Ctl+Alt').
+    WARNING: Æ (U+00c6) is already defined more than once on the keyboard (on VK_Z, ShiftState 'Shift+Ctl+Alt' and VK_E, ShiftState 'Shift+Ctl+Alt').
